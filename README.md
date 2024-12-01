@@ -1,2 +1,1 @@
-# GitHubCloneProject
-Objective: Practice creating branches for feature development, merging branches, and resolving merge conflicts.
+# GitHubCloneProject\n\nObjective: Practice branching and merging.
